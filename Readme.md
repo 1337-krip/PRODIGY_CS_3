@@ -18,15 +18,10 @@ This Python program assesses the strength of a password based on various criteri
 ## Usage
 
 1. Clone this repository:
-    ```bash
-    git clone https://github.com/your-username/password-strength-assessment.git
-    cd password-strength-assessment
-    ```
+  
 
 2. Run the program:
-    ```bash
-    python password_strength_tool.py
-    ```
+ 
 
 3. Enter a password when prompted. The program will assess the password and provide feedback on its strength.
 
